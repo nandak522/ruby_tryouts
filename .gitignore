@@ -1,0 +1,9 @@
+#vim cruft
+*.swp
+
+#emacs cruft
+*~
+*#*
+
+# backup cruft
+*.old
